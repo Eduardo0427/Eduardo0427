@@ -5,7 +5,7 @@
 ## Sobre mí
 
 ¡Hola! Soy Eduardo, un apasionado desarrollador y entusiasta de la resolución de problemas. Me encanta enfrentar desafíos y mejorar mis habilidades de programación a través de plataformas como CodeWars y LeetCode.
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,vscode,pytorch,tensorflow,django,java,linux,mysql,docker)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css,py,vscode,pytorch,tensorflow,django,java,linux,mysql,docker)
 ## CodeWars
 
 [<img src="https://uploads-ssl.webflow.com/62e95dddfb380a0e61193e7d/6363e7db70db732290fa3db6_logo-256.png" alt="codewars Icon" width=50 height=50>](https://www.codewars.com/users/Eduardo_ZL)
