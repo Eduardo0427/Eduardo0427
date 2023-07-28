@@ -1,4 +1,4 @@
-# Perfiles de Eduardo en CodeWars y LeetCode
+# Hola soy Eduardo :)
 
 ¡Bienvenido a mi repositorio!
 
@@ -22,4 +22,4 @@ En LeetCode, me dedico a resolver problemas de algoritmos y estructuras de datos
 
 ¡Gracias por visitar mi perfil! Si deseas contactarme o colaborar en algún proyecto interesante, no dudes en enviarme un mensaje a mi dirección de correo electrónico: eduardozamoralule@gmail.com.
 
-¡Espero que encuentres útiles y divertidos mis desafíos en CodeWars y LeetCode! ¡Happy coding!
+¡Happy coding!
