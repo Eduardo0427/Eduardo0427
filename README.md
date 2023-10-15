@@ -1,5 +1,5 @@
-# 🌱 About Me :
-¡Hola, soy Eduardo!<br><br>Uno de mis intereses más apasionantes es la Inteligencia Artificial y la Ciencia de Datos. <br><br>¡Estoy listo para enfrentar nuevos desafíos y aprender cada día! Siempre estoy abierto a nuevas oportunidades y colaboraciones.<br><br>¡Gracias por visitar mi perfil! 🌳
+## 🌱 About Me :
+¡Hola, soy Eduardo!<br>Uno de mis intereses más apasionantes es la Inteligencia Artificial y la Ciencia de Datos.<br>¡Estoy listo para enfrentar nuevos desafíos y aprender cada día! Siempre estoy abierto a nuevas oportunidades y colaboraciones.<br><br>#¡Gracias por visitar mi perfil! 🌳
 
 
 # 💻 Tech Stack:
