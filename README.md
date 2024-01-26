@@ -1,6 +1,6 @@
-# 🌱 About Me :
+## 🌱 About Me :
 ¡Hola, soy Eduardo!<br>Apasionado por la Inteligencia Artificial y la Ciencia de Datos.<br>
-## ¡Gracias por visitar mi perfil! 🌳
+
 
 
 # 💻 Tech Stack:
