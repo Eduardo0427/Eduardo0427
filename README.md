@@ -1,5 +1,5 @@
 ## 🌱 About Me :
-¡Hola, soy Eduardo!<br>Apasionado por la Inteligencia Artificial y la Ciencia de Datos.<br>
+¡Hola, soy Eduardo!<br><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Eduardo0427&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
