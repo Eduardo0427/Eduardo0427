@@ -1,9 +1,20 @@
 ## 🌱 About Me :
 ¡Hola, soy Eduardo!<br><br>
 
-## Skils
+# Skils
+## languages:
 <div>
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,react,bash,flask,java,mysql,py,spring&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bash,java,py&perline=3" />
+</div>
+
+# frameworks y librerias
+<div>
+  <img src="https://skillicons.dev/icons?i=react,flask,spring&perline=5" />
+</div>
+
+# Herramientas
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git&perline=5" />
 </div>
 
 # 📊 GitHub Stats:
