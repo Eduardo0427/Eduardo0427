@@ -4,13 +4,9 @@
 # Skils
 ## languages:
 <div>
-  <img src="https://skillicons.dev/icons?i=html,js,bash,java,py,rust,c&perline=6" />
+  <img src="https://skillicons.dev/icons?i=bash,java,py,rust,c&perline=6" />
 </div>
 
-# frameworks y librerias
-<div>
-  <img src="https://skillicons.dev/icons?i=react,flask,spring&perline=5" />
-</div>
 
 # Herramientas
 <div>
