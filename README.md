@@ -1,8 +1,5 @@
 # Hola 👋, soy Eduardo
 Soy estudiante de Ingeniería en Computación, me gusta resolver problemas algorítmicos, las matemáticas y la física.<br><br>
-[![LeetCode](https://img.shields.io/badge/LeetCode-757474?style=for-the-badge&logo=leetcode)](https://leetcode.com/Eduardo_/)
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Eduardo_ZL)
-[![Codeforces](https://img.shields.io/badge/Codeforces-ff0000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/EduardoZzzz)
 
 
 ## Lenguajes
